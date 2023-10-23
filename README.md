@@ -1,5 +1,5 @@
 # Reservoir-Simulation-and-Optimization-models
-Simple Reservoir Simulation Problem based on Water Balance, and different Optimization example models
+Simple Multi-purpose Reservoir Simulation Problem based on Water Balance, and five (5) different Optimization example models
 ###
 This is a simple example model for reservoir simulation, describing the basic processes of a reservoir operation, over one year (a 12-month period). 
 In particular, for each one of the 12 time-steps, the model considers: The storage level in the reservoir along with its minimum and maximum load capacities, 
